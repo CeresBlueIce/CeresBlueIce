@@ -1,3 +1,4 @@
+<img src="pxfuel.jpg"/>
 - 👋 Hi, Soy Gerardo Segovia Pacheco
 - 👀 Mis intereses son la educación continua
 - 🌱 Me gusta leer, ver series y viajar en familia
